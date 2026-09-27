@@ -20,6 +20,33 @@ A collection of beginner-friendly notes on Generative AI covering key models lik
 
 These notes are intentionally introductory. They are best used as a revision companion, not as production guidance.
 
+## Concept map
+
+~~~mermaid
+flowchart LR
+    A[Training data or prompt] --> B{Model family}
+    B --> C[GAN: generator and discriminator]
+    B --> D[VAE: encoder, latent space and decoder]
+    B --> E[Transformer: token attention layers]
+    C --> F[Generated output]
+    D --> F
+    E --> F
+~~~
+
+## Quick reference
+
+| Topic | Plain-language takeaway | Best next step |
+| --- | --- | --- |
+| GANs | A generator and discriminator train against one another to create convincing samples. | Read the original GAN paper before implementing one. |
+| VAEs | An encoder maps examples into a probabilistic latent space and a decoder reconstructs samples. | Study the reparameterisation idea in the original VAE paper. |
+| Transformers | Attention-based layers model relationships between tokens and underpin many modern language models. | Read the original Transformer paper, then build a small attention example. |
+
+### Primary reading
+
+- [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 # Generative AI (Gen AI) - Notes
 
 ## 📌 What is Generative AI?
