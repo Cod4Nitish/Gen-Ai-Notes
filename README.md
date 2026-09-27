@@ -5,6 +5,16 @@
 
 A collection of beginner-friendly notes on Generative AI covering key models like GANs, VAEs, and Transformers.
 
+## Study map
+
+| Area | What to find |
+| --- | --- |
+| Foundations | A plain-language definition of Generative AI and the kinds of content it can produce. |
+| Model families | Introductory references to GANs, VAEs, and Transformers. |
+| Learning use | A compact starting point before moving to implementation guides and research papers. |
+
+These notes are intentionally introductory. They are best used as a revision companion, not as production guidance.
+
 # Generative AI (Gen AI) - Notes
 
 ## 📌 What is Generative AI?
