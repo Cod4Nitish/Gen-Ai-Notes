@@ -1,4 +1,9 @@
-# Gen-Ai-Notes
+<div align="center">
+  <h1>Generative AI Notes</h1>
+  <p>A beginner-friendly study companion for core generative-model concepts</p>
+  <img src="https://img.shields.io/badge/status-archived-6B7280?style=flat-square" alt="Status: archived" />
+  <img src="https://img.shields.io/badge/topic-Generative%20AI-7C3AED?style=flat-square" alt="Generative AI" />
+</div>
 
 > [!NOTE]
 > **Archived learning notes.** This beginner-friendly Generative AI reference is retained as a study resource, not as an actively maintained project.
