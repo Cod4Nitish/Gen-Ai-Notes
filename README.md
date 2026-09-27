@@ -1,5 +1,9 @@
 # Gen-Ai-Notes
-"A collection of beginner-friendly notes on Generative AI covering key models like GANs, VAEs, and Transformers."
+
+> [!NOTE]
+> **Archived learning notes.** This beginner-friendly Generative AI reference is retained as a study resource, not as an actively maintained project.
+
+A collection of beginner-friendly notes on Generative AI covering key models like GANs, VAEs, and Transformers.
 
 # Generative AI (Gen AI) - Notes
 
